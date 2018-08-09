@@ -1,0 +1,10 @@
+{
+    "name": "sql_api",
+    "current_version": {
+        "requires": {},
+        "works_with": {
+            "foo": "^0.20.0"
+        }
+    },
+    "exceptional_versions": {}
+}
